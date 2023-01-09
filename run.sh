@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Using runner: craftboard/runner-alpaquita-liberica-17"
+echo "Using runner: craftboard/runner-alpaquita-liberica-8"
 cd "/opt/server"
 umask 0000
 if [ $USE_SHELL -eq true ]
